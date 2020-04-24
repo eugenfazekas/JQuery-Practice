@@ -1,0 +1,20 @@
+$('document').ready(function(){
+	$('#text').click(function(){
+		$('#text').hide();
+	});
+});
+$('document').ready(function(){
+	$('.text').click(function(){
+		$('.text').hide();
+	});
+});
+$('document').ready(function(){
+	$('h3').click(function(){
+		$('h3').hide();
+	});
+});
+$('document').ready(function(){
+	$('h4').click(function(){
+		$(this).hide();
+	});
+});

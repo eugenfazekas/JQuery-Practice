@@ -1,0 +1,8 @@
+$('document').ready(function(){
+	$('.table tr:odd ').addClass('color');
+});
+
+
+
+
+

@@ -1,0 +1,16 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+#div{
+	background-color:red;
+	width:400px;
+	height:200px;
+	border: 1px solid #000;
+	margin:10px;
+}
+
+.color{
+	color:#ff0000;
+}

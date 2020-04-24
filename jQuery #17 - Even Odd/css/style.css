@@ -1,0 +1,7 @@
+.table,table tr, table td{
+	width:500px;
+	border: 1px solid #000;
+}
+.color{
+	background-color:#dedede;
+}

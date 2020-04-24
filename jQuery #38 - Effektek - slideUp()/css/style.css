@@ -1,0 +1,28 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+img{
+	float:left;
+	margin:10px;
+}
+div{
+	float:left;
+	width:200px;
+	height:200px;
+	margin:10px;
+	
+}
+
+div#div1{
+	background-color:red;
+}
+
+div#div2{
+	background-color:#ededed;
+}
+
+div#div3{
+	background-color:green;
+}

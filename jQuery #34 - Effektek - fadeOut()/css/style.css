@@ -1,0 +1,31 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+div#div1{
+	width:300px;
+	height:300px;
+	margin:15px;
+	float:left;
+
+	background-color:red;
+}
+
+div#div2{
+	width:300px;
+	height:300px;
+	margin:15px;
+	float:left;
+
+	background-color:#ededed;
+}
+
+div#div3{
+	width:300px;
+	height:300px;
+	margin:15px;
+	float:left;
+	
+	background-color:green;
+}
